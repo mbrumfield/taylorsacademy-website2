@@ -1,0 +1,51 @@
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+
+}
+
+.nav.navbar-nav li a {
+    color: gold;
+    background-color: transparent;
+}
+
+.container2 {
+  margin-bottom: 20px;
+  padding-bottom: 50px;
+  
+}
+
+.embed-responsive{
+  width: 50vw;
+    margin-left:auto;
+    margin-right:auto;
+    height: 80%;
+    width: 90%;
+}
+
+
+.div .navbar{
+  text-align: center;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+    height: 400px;
+    width: 500px;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel{
+  /*height: 500px; */
+  background-color: #777;
+}
+
+.navbar-brand a{
+  color: green;
+}
+
